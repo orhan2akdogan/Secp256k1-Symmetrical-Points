@@ -3,6 +3,9 @@
 This study demonstrates the symmetry created by the range of selected k values on the SECP256k1 curve.
 If you move upward and downward from the half value of the curve's order parameter, the X-coordinates of the resulting points will be equal, creating a symmetry parallel to the X-axis.
 
+![Points](images/Points.png)
+
+
 Example values from the midpoint are as follows:
 
 SECP256k1.order -->
@@ -21,5 +24,3 @@ R2: 8963668642943990826242042207998010011109324268815388257136994612571424724277
 
 R1hex: C62C910E502CB615A27C58512B6CC2C94F5742F76CB3D12EC993400A3695D413
 R2hex: C62C910E502CB615A27C58512B6CC2C94F5742F76CB3D12EC993400A3695D413
-
-![Points](images/Points.png)
