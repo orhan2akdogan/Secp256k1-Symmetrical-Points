@@ -3,6 +3,8 @@
 
 PointCount = 141
 
+n = 115792089237316195423570985008687907852837564279074904382605163141518161494337
+
 import matplotlib.pyplot as plt
 from ecdsa import SECP256k1
 import sympy
